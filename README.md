@@ -8,5 +8,5 @@ Special Khusus pelanggan serverpack oxygen, Anda berhak mendapatkan update ini s
 ![Screenshot_2025-02-01_191406](https://github.com/user-attachments/assets/f5493635-b3d6-453f-a549-766561d4e59d)
 
 
-Discord : https://discord.gg/ZKZJWTTxpr
-Author : sag_0989 | OXY DEVELOPMENT
+# Discord : https://discord.gg/ZKZJWTTxpr
+# Author : sag_0989 | OXY DEVELOPMENT
