@@ -1,6 +1,6 @@
 # oxygen_huds
 
-## huds money, player, time & job QBCore Frameworks
+## huds money, player, time, name & job QBCore Frameworks
 
 Special Khusus pelanggan serverpack oxygen, Anda berhak mendapatkan update ini silahkan cek di channel ⠸📮update-patch 
 
